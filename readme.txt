@@ -1,1 +1,1 @@
-This is a basic code for testing github action workflows
+This is a basic code for testing github action workflows.
